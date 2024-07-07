@@ -39,8 +39,18 @@ nav ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-left: 200px;
   
+}
 
+.header {
+    background-image: url("../images/developer.png"),url("../images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: left top, right  bottom 0px;
+    background-size: 80px 500px, 40% ;
+    /* background-position:  auto,  100px; */
+    
+   
 }
 
 .nav-heading {
@@ -50,4 +60,17 @@ color: #1E1E1E;
 }
 .nav-special-charecter {
     color: #FD6E0A;
+}
+
+.banner {
+    display: flex;
+}
+
+.banner-intro{
+    margin-left: 205px;
+}
+.reza{
+    width: 300px;
+    height: auto;
+    margin-right: 100px;
 }
