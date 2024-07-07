@@ -47,7 +47,7 @@ nav ul {
     background-image: url("../images/developer.png"),url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: left top, right  bottom 0px;
-    background-size: 80px 500px, 40% ;
+    background-size: 80px 500px, 35% ;
     /* background-position:  auto,  100px; */
     
    
@@ -72,5 +72,5 @@ color: #1E1E1E;
 .reza{
     width: 300px;
     height: auto;
-    margin-right: 100px;
+    margin-right: 70px;
 }
