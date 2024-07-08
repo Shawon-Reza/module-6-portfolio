@@ -156,3 +156,15 @@ color: #1E1E1E;
     margin-bottom: 30px;
 }
 /* Page 3 */
+
+
+/* page 4  */
+.resume-container{
+    display: flex;
+    gap:71px;
+    margin: 0px 230px;
+}
+.resume .resume-heading{
+    text-align: center;
+    
+}
